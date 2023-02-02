@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Estudante de Análise e Desenvolvimento De Sistemas
 --------------------------------------------------
 
-Por muito tempo trabalhando na Industria, em vários segmentos, porém nos dias atuais buscando aprender o máximo possível para me tornar um DEV.
+Por muito tempo trabalhando Dentro de Industrias na Produção de vários produtos, em vários Segmentos, porém nos dias atuais buscando aprender o máximo possível para me tornar um DEV.
 
 * 🌍  I'm based in Onde Somente o Raul Gil Conhece, Itaquaquecetuba, SP, Brasil.
 * ✉️  You can contact me at [Jean\_arl@hotmail.com](mailto:Jean_arl@hotmail.com)
