@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 <H2>Estudante de Análise e Desenvolvimento De Sistemas</H2>
---------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 <P>Por muito tempo trabalhando Dentro de Industrias na Produção de vários produtos, em vários Segmentos, porém nos dias atuais buscando aprender o máximo possível para me tornar um DEV, em Busca de Uma Primeira Oportunidade</p> <p>Estágios são Bem-Vindos.</p>
 
